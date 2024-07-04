@@ -1,6 +1,10 @@
 # ✨🐢 NodeJS 2024 🚀✨ Interview Question
 
 > Interview questions and recommendations for application and system backend developers.
+> Translations:
+> [EN](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en),
+> [UA](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/ua),
+> [RU](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/ru).
 
 - [55 Interview Questions for Applied Node.js Backend Engineer](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#55-interview-questions-for-applied-backend-developer)
 - [60 Interview Questions for System Node.js Backend Engineer](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#60-interview-questions-for-system-nodejs-backend-engineer)
