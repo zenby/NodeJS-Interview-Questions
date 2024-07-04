@@ -2,13 +2,13 @@
 
 > Interview questions and recommendations for application and system backend developers.
 
-- [55 Interview Questions for Applied Node.js Backend Engineer](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#55-Interview-Questions-for-Applied-Node.js-Backend-Engineer)
-- [60 Interview Questions for System Node.js Backend Engineer](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#60-Interview-Questions-for-System-Node.js-Backend-Engineer)
-- [Answers to these questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#Answers-to-these-questions)
-- [Notes on Interview Techniques](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#Notes-on-Interview-Techniques)
-- [How to Conduct Interviews](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#How-to--Interviews)
-- [Notes for Candidates](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#Notes-for-Candidates)
-- [Links](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#Links)
+- [55 Interview Questions for Applied Node.js Backend Engineer](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/en/README.md#55-interview-questions-for-applied-backend-developer)
+- [60 Interview Questions for System Node.js Backend Engineer](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#60-interview-questions-for-system-nodejs-backend-engineer)
+- [Answers to these questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#answers-to-these-questions)
+- [Notes on Interview Techniques](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#notes-on-interview-techniques)
+- [How to Conduct Interviews](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#how-to-conduct-interviews)
+- [Notes for Candidates](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#notes-for-candidates)
+- [Links](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en?tab=readme-ov-file#links)
 
 ## 55 Interview Questions for Applied Backend Developer
 
