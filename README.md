@@ -1,6 +1,6 @@
 # ✨🐢 NodeJS 2024 🚀✨ Interview Question
 
-> Interview questions and recommendations for application and system backend developers.
+> Interview questions and recommendations for app and system backend developers.
 > Translations:
 > [EN](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en),
 > [UA](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/ua),
@@ -16,18 +16,18 @@
 
 ## 55 Interview Questions for Applied Backend Developer
 
-Прикладной программист пишет продуктовый код, занимается моделированием предметной области и автоматизацией процессов в ней. Прикладному программисту нужно знать node.js как инструмент, его возможности, концепции, преимущества и недостатки, но не нужно глубоко погружаться в код платформы, не нужно строить прослойку между node.js и прикладным кодом, не нужно изобретать фреймворки (внутри продукта), изобретать обобщенные инструменты и библиотеки, не имеющие отношение к предметной области. Если это происходит, то он выполняет две роли - системную и прикладную, они должны быть максимально отделены: отдельные репозитории, отдельное рабочее время и должность, отдельные цели и задачи. Чтобы писать системные вещи смотри вопросы в следующем разделе.
+An application programmer developes product, domain model, domain logic and processes. An application programmer needs to know node.js as a tool, its capabilities, concepts, advantages and disadvantages, but does not need to dive deeply into the platform code, does not need to build a layer between node.js and application code, does not need to invent frameworks (within the product), invent generic tools and libraries that are not domain specific. If this happens, he performs both roles - system and applied, they should be separated as much as possible: separate repositories, separate working hours and position, separate goals and tasks. If you need questions for system developer see the next section.
 
-1. Что можно сделать с помощью `for await` с объектом `request: IncomingMessage`?
-2. Чем в ноде нативно хешировать пароли и в каких случаях для этого нужны зависимости?
-3. Какое API реализует `nodejs/undici`?
-4. Чем современным заменить node:domain API?
-5. Когда мы можем использовать синхронные версии операций с файлами из `node:fs` вместо асинхронных и на что обращать внимание, принимая такое решение?
-6. Приведите лучшие практики для обработки ошибок в асинхронном коде.
-7. Как в проектах на ноде могут появиться уязвимости? Объясните на выбор XSS, Path traversal, SQL injection, CSRF? Как от них защищаться?
-8. Как возможно состояние гонки (race condition) в асинхронном программировании? И как от этого защищаться?
-9. В чем плюсы и минусы разделения кода на .js и отдельно тайпинги .d.ts?
-10. Приведите несколько типичных для Node.js паттернов проектирования (по GoF и не только) с примерами.
+1. What can you do with `for await` on a `request: IncomingMessage` instance?
+2. How does node.js natively hash passwords and in what cases we need external dependencies for this?
+3. What API does `nodejs/undici` implement?
+4. What is a modern replacement for the `node:domain` API?
+5. When can we use synchronous versions of file operations from `node:fs` instead of asynchronous ones and what should we look for when making such a decision?
+6. Propose best practices for handling errors in asynchronous code.
+7. How can vulnerabilities appear in node projects? Explain on of the following for your choice: XSS, Path traversal, SQL injection, CSRF? How to prevent them?
+8. How is a race condition possible in asynchronous programming? And how to protect your code from it?
+9. What are the pros and cons of splitting code into .js and separate .d.ts typings?
+10. Give several typical design patterns for Node.js (based on GoF and not only) with examples.
 11. В чем заключается проблема толстых контролеров? (с примерами на ноде)
 12. Приведите примеры протекания абстракций (типичных для ноды).
 13. Как можно создать `Singleton` с помощью системы модульности в ноде?
